@@ -2,6 +2,8 @@
 
 A modern, visually striking portfolio website showcasing AI development, full-stack engineering, and data science expertise.
 
+> Built by Charan Katkam | © 2025
+
 ## 🚀 Features
 
 - **Modern Design**: Clean, professional UI with smooth animations and gradients
